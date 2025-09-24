@@ -40,3 +40,15 @@ h1 {
     color: #828271;
     font-size: 1.2em;
 }
+#img1 img{
+    border: 9px solid #979784;
+    width: 640pX;
+}
+#img2 img {
+    border: 9px solid #979784;
+    width: 640pX;
+}
+#img3 img{
+    border: 9px solid #979784;
+    width: 640pX;
+}
